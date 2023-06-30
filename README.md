@@ -1,5 +1,9 @@
 # Getting Started
 
+## Download Dataset
+
+The dataset can be found in https://aclanthology.org/P11-1032/
+
 ## Set up *Data* Folder
 
 1. Create a new folder called "data" under project directory
